@@ -849,7 +849,7 @@
                 "overlayOpacity": "0.3"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/a-happy-couple-dancing-on-sidewalk-3775545.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/img-2151.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
