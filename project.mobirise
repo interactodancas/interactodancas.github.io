@@ -51,7 +51,7 @@
     "versionPublish": "5.1.14",
     "screenshot": "screenshot.png",
     "favicon": false,
-    "robotsSwitcher": false,
+    "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
     "siteUrl": "https://interactodancas.github.io/",
@@ -74,17 +74,19 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "publishChangesOnly": true,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "google-site-verification: google6b4e680341df8960.html"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Aulas de dança São Paulo ",
+        "meta_descr": "Dança de salão São Paulo Zona Norte. Aulas de sertanejo, samba, zouk, professores da Dança dos Famosos",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/photography-of-woman-listening-to-music-761965-2000x1333.jpeg"
       },
       "components": [
         {
