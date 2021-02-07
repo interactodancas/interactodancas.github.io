@@ -1041,7 +1041,7 @@ a {
   }
 }
 .cid-smeDnJ3kne {
-  background-image: url("../../../assets/images/photography-of-woman-listening-to-music-761965-2000x1333.jpeg");
+  background-image: url("../../../assets/images/photography-of-woman-listening-to-music-761965-2000x1333-1.webp");
 }
 .cid-smeDnJ3kne .mbr-section-title {
   text-align: right;
@@ -1376,17 +1376,6 @@ a {
 .cid-smd3RHaDaT .item-subtitle {
   text-align: left;
 }
-.cid-sn8OhFoX3c {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #e6e6e6;
-}
-.cid-sn8OhFoX3c .line {
-  background-color: #e43f3f;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
 .cid-smdcklnkub {
   padding-top: 3rem;
   padding-bottom: 3rem;
@@ -1422,6 +1411,9 @@ a {
 .cid-smdcklnkub .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-smdcklnkub H5 {
+  color: #4479d9;
 }
 .cid-smdfxiyvjR {
   padding-top: 0rem;
